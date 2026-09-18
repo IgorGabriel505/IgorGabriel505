@@ -102,31 +102,15 @@ Principais áreas em que estou trabalhando:
 
 ---
 
-## 📌 Projetos em Destaque
+## 📌 Projeto em Destaque
 
-### 🤖 UV-Care Robot
+<div align="center">
 
-Aplicativo Android desenvolvido em **Java** para controle e monitoramento de um robô destinado à utilização de luz UV.
+<a href="https://github.com/IgorGabriel505/Pokedex">
+  <img src="https://github-stats-extended.vercel.app/api/pin/?username=IgorGabriel505&repo=Pokedex&theme=github_dark&hide_border=true" />
+</a>
 
-O projeto envolve autenticação de usuários, interface de controle, gerenciamento de missões e monitoramento do estado do robô.
-
-**Tecnologias:**
-`Java` · `Android Studio` · `Firebase` · `XML`
-
----
-
-### 🎮 Star Wars Vanguard
-
-Projeto de **RPG tático Web inspirado no universo de Star Wars**, desenvolvido utilizando **HTML, CSS e JavaScript**.
-
-O projeto possui sistema de movimentação de personagens em mapas, combate tático, gerenciamento de personagens, habilidades da Força, ataques com sabre de luz, granadas e diferentes mecânicas inspiradas no sistema **Star Wars Saga Edition**.
-
-O desenvolvimento também envolve criação de interfaces, menus, mapas táticos, sistema de testes de IA e evolução contínua das mecânicas do jogo.
-
-**Tecnologias:**
-`HTML` · `CSS` · `JavaScript` · `Game Logic` · `UI/UX`
-
----
+</div>
 
 ### 🔴 Pokédex em C++
 
@@ -139,7 +123,7 @@ Entre os conceitos utilizados estão **árvores de busca, listas de adjacência,
 **Tecnologias:**
 `C++` · `Estruturas de Dados` · `Grafos` · `Algoritmos`
 
-[![Repositório](https://img.shields.io/badge/Reposit%C3%B3rio-GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/IgorGabriel505/Pokedex)
+[![Repositório](https://img.shields.io/badge/Acessar%20Reposit%C3%B3rio-GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/IgorGabriel505/Pokedex)
 
 ---
 
