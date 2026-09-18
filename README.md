@@ -1,14 +1,17 @@
+```markdown
 # 👋 Olá, eu sou Igor Gabriel
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&width=750&lines=Desenvolvedor+de+Software;Estudante+de+Engenharia+de+Software;T%C3%A9cnico+em+Desenvolvimento+de+Sistemas;Java+%7C+C%2FC%2B%2B+%7C+Python+%7C+JavaScript;Web+Development+%7C+Arduino+%7C+ESP32)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&width=750&lines=Desenvolvedor+de+Software;Estudante+de+Engenharia+de+Software;T%C3%A9cnico+em+Desenvolvimento+de+Sistemas;Futuro+Back-end+Developer+Java;Java+%7C+C%2FC%2B%2B+%7C+Python+%7C+JavaScript;Web+Development+%7C+Android+%7C+Arduino+%7C+ESP32)](https://git.io/typing-svg)
 
-### 💻 Desenvolvedor de Software | 🎓 Engenharia de Software | 🛠️ Técnico em Desenvolvimento de Sistemas
+### 💻 Desenvolvedor de Software | 🎓 Engenharia de Software | ☕ Foco em Back-end Java
 
 Sou estudante de **Engenharia de Software no Inatel** e formado como **Técnico em Desenvolvimento de Sistemas pelo SENAI**.
 
-Tenho interesse em desenvolvimento de software, aplicações web, sistemas embarcados, banco de dados e construção de soluções utilizando programação.
+Tenho interesse em me especializar e construir minha carreira como **Desenvolvedor Back-end Java**, aprofundando meus conhecimentos em desenvolvimento de sistemas, APIs, banco de dados e arquitetura de software.
 
-Atualmente estou desenvolvendo projetos acadêmicos e pessoais enquanto aprofundo meus conhecimentos em **Java, C/C++, Python, desenvolvimento Web, estruturas de dados, banco de dados e sistemas com Arduino/ESP32**.
+Também gosto de desenvolver **aplicações Web e aplicativos**, explorando diferentes tecnologias para transformar ideias em soluções funcionais.
+
+Atualmente desenvolvo projetos acadêmicos e pessoais enquanto aprimoro meus conhecimentos em **Java, C/C++, Python, desenvolvimento Web, Android, banco de dados, algoritmos, estruturas de dados e sistemas embarcados com Arduino e ESP32**.
 
 ---
 
@@ -16,11 +19,13 @@ Atualmente estou desenvolvendo projetos acadêmicos e pessoais enquanto aprofund
 
 - 🎓 Graduando em **Engenharia de Software — Inatel**
 - 🛠️ Técnico em **Desenvolvimento de Sistemas — SENAI**
-- 💻 Interesse em **Desenvolvimento de Software e Desenvolvimento Web**
-- ☕ Desenvolvimento de aplicações utilizando **Java**
+- ☕ Interesse profissional em **Desenvolvimento Back-end com Java**
+- 🌐 Gosto de desenvolver **aplicações Web**
+- 📱 Interesse no desenvolvimento de **aplicativos**
+- 💻 Desenvolvimento de aplicações utilizando **Java**
 - ⚙️ Programação em **C e C++**
 - 🐍 Desenvolvimento de projetos utilizando **Python**
-- 🌐 Desenvolvimento com **HTML, CSS e JavaScript**
+- 🌐 Desenvolvimento com **HTML, CSS, JavaScript e XML**
 - 🗄️ Experiência com **MySQL e PostgreSQL**
 - 🤖 Desenvolvimento de projetos utilizando **Arduino e ESP32**
 - 📚 Estudando **Algoritmos, Estruturas de Dados e Programação Orientada a Objetos**
@@ -33,12 +38,14 @@ Atualmente estou desenvolvendo projetos acadêmicos e pessoais enquanto aprofund
 
 <p>
   <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js" />
+  <img width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xml/xml-original.svg" />
 </p>
 
 ## 🌐 Desenvolvimento Web
 
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js" />
+  <img width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xml/xml-original.svg" />
 </p>
 
 ## 🗄️ Banco de Dados
@@ -63,19 +70,21 @@ Atualmente estou desenvolvendo projetos acadêmicos e pessoais enquanto aprofund
 
 ---
 
-# 🔨 Atualmente desenvolvendo
+# 🎯 Foco atual
 
-Atualmente estou focado em projetos e estudos envolvendo:
+Atualmente estou direcionando meus estudos e projetos para evoluir como **Desenvolvedor Back-end Java**, enquanto continuo desenvolvendo experiência em outras áreas da programação.
 
-- 🌐 Desenvolvimento Web
-- ☕ Java
-- 🐍 Python
-- ⚙️ C e C++
-- 🤖 Arduino e ESP32
-- 📱 Desenvolvimento Android
-- 🗄️ Banco de Dados
-- 🧠 Algoritmos e Estruturas de Dados
-- 🧩 Programação Orientada a Objetos
+Principais áreas em que estou trabalhando:
+
+- ☕ **Java e Programação Orientada a Objetos**
+- ⚙️ **Desenvolvimento Back-end**
+- 🗄️ **Banco de Dados**
+- 🌐 **Desenvolvimento Web**
+- 📱 **Desenvolvimento de Aplicativos**
+- 🐍 **Python**
+- ⚙️ **C e C++**
+- 🤖 **Arduino e ESP32**
+- 🧠 **Algoritmos e Estruturas de Dados**
 
 ---
 
@@ -89,7 +98,7 @@ O projeto envolve autenticação de usuários, interface de controle, gerenciame
 
 ### Tecnologias
 
-`Java` · `Android Studio` · `Firebase`
+`Java` · `Android Studio` · `Firebase` · `XML`
 
 ---
 
@@ -97,7 +106,7 @@ O projeto envolve autenticação de usuários, interface de controle, gerenciame
 
 Projeto de sistema inteligente para **captação, tratamento e reutilização de água da chuva**, integrando componentes eletrônicos com software.
 
-O sistema utiliza **ESP32**, sensores, bombas e válvulas para realizar monitoramento e controle dos processos.
+O sistema utiliza **ESP32**, sensores, bombas e válvulas para realizar o monitoramento e controle dos processos.
 
 ### Tecnologias
 
@@ -138,17 +147,13 @@ O projeto utiliza conceitos como:
 
 # 📫 Contato
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Igor%20Gabriel-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](SEU-LINK-DO-LINKEDIN)
+
 [![GitHub](https://img.shields.io/badge/GitHub-IgorGabriel505-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/IgorGabriel505)
-
-<!-- LinkedIn -->
-<!-- Quando criar ou quiser adicionar seu LinkedIn, remova os comentários abaixo -->
-
-<!--
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Igor%20Gabriel-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](COLOQUE-SEU-LINK-AQUI)
--->
 
 ---
 
 <p align="center">
   <i>Buscando evoluir constantemente através de projetos, estudos e novos desafios em tecnologia.</i>
 </p>
+```
