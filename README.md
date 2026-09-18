@@ -138,7 +138,9 @@ O projeto utiliza conceitos como:
 
 ## 📫 Contato
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Igor%20Gabriel-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](SEU-LINK-DO-LINKEDIN)
+[![LinkedIn](https://www.linkedin.com/in/
+igor-gabriel-porto-vidal
+)
 
 [![GitHub](https://img.shields.io/badge/GitHub-IgorGabriel505-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/IgorGabriel505)
 
