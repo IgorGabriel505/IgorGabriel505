@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou Igor Gabriel
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code\&size=22\&duration=3000\&pause=1000\&width=750\&lines=Desenvolvedor+de+Software;Estudante+de+Engenharia+de+Software;T%C3%A9cnico+em+Desenvolvimento+de+Sistemas;Futuro+Desenvolvedor+Back-end+Java;Java+%7C+C%2FC%2B%2B+%7C+Python+%7C+JavaScript;Web+Development+%7C+Android+%7C+Arduino+%7C+ESP32)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code\&size=22\&duration=3000\&pause=1000\&width=750\&lines=Desenvolvedor+de+Software;Estudante+de+Engenharia+de+Software;T%C3%A9cnico+em+Desenvolvimento+de+Sistemas;Foco+em+Back-end+Java;Java+%7C+C%2FC%2B%2B+%7C+Python+%7C+JavaScript;Web+Development+%7C+Android+%7C+Arduino+%7C+ESP32)](https://git.io/typing-svg)
 
 ### 💻 Desenvolvedor de Software | 🎓 Engenharia de Software | ☕ Foco em Back-end Java
 
@@ -82,9 +82,9 @@ Atualmente estou direcionando meus estudos e projetos para evoluir como **Desenv
 
 Também atuo como **bolsista de Iniciação Científica**, participando do desenvolvimento de um sistema para **monitoramento e gerenciamento de uma caixa d'água inteligente**.
 
-O projeto integra um **aplicativo conectado diretamente a um ESP32**, permitindo acompanhar informações do sistema e gerenciar diferentes funções e processos da caixa d'água por meio da aplicação.
+O projeto integra um **aplicativo conectado a um ESP32**, permitindo acompanhar informações do sistema e gerenciar diferentes funções e processos da caixa d'água por meio da aplicação.
 
-Essa experiência envolve a integração entre **software, aplicativo, sistemas embarcados, sensores e comunicação com ESP32**.
+Essa experiência envolve a integração entre **software, aplicativos, sistemas embarcados, sensores e comunicação com ESP32**.
 
 Principais áreas em que estou trabalhando:
 
@@ -144,8 +144,8 @@ Entre os conceitos utilizados estão **árvores de busca, listas de adjacência,
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=IgorGabriel505&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorGabriel505&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
+  <img height="170" src="https://github-stats-extended.vercel.app/api?username=IgorGabriel505&show_icons=true&theme=github_dark&hide_border=true" />
+  <img height="170" src="https://github-stats-extended.vercel.app/api/top-langs/?username=IgorGabriel505&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
 </div>
 
 ---
