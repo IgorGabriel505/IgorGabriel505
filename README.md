@@ -104,32 +104,29 @@ O projeto envolve autenticação de usuários, interface de controle, gerenciame
 
 ---
 
-### 💧 Caixa d'Água Inteligente
+### 🎮 Star Wars Vanguard
 
-Projeto de sistema inteligente para **captação, tratamento e reutilização de água da chuva**, integrando componentes eletrônicos com software.
+Projeto de **RPG tático Web inspirado no universo de Star Wars**, desenvolvido utilizando **HTML, CSS e JavaScript**.
 
-O sistema utiliza **ESP32**, sensores, bombas e válvulas para realizar o monitoramento e controle dos processos.
+O projeto possui sistema de movimentação de personagens em mapas, combate tático, gerenciamento de personagens, habilidades da Força, ataques com sabre de luz, granadas e diferentes mecânicas inspiradas no sistema **Star Wars Saga Edition**.
+
+O desenvolvimento também envolve criação de interfaces, menus, mapas táticos, sistema de testes de IA e evolução contínua das mecânicas do jogo.
 
 **Tecnologias:**
-`ESP32` · `Arduino` · `C/C++` · `Sensores` · `Automação`
+`HTML` · `CSS` · `JavaScript` · `Game Logic` · `UI/UX`
 
 ---
 
-### 🖥️ PcMania
+### 🔴 Pokédex em C++
 
-Projeto acadêmico desenvolvido em **Java** aplicando conceitos de **Programação Orientada a Objetos**.
+Projeto desenvolvido em **C++** para gerenciamento e organização de informações relacionadas ao universo Pokémon.
 
-O projeto utiliza conceitos como:
+O projeto aplica conceitos de programação e estruturas de dados para manipulação de Pokémon, cidades e rotas, utilizando diferentes formas de organização e busca de informações.
 
-* Classes e objetos
-* Encapsulamento
-* Composição
-* Associação
-* Vetores de objetos
-* Métodos e construtores
+Entre os conceitos utilizados estão **árvores de busca, listas de adjacência, grafos e algoritmos de percurso**.
 
 **Tecnologias:**
-`Java` · `Programação Orientada a Objetos`
+`C++` · `Estruturas de Dados` · `Grafos` · `Algoritmos`
 
 ---
 
