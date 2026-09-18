@@ -18,6 +18,7 @@ Atualmente desenvolvo projetos acadêmicos e pessoais enquanto aprimoro meus con
 
 * 🎓 Graduando em **Engenharia de Software — Inatel**
 * 🛠️ Técnico em **Desenvolvimento de Sistemas — SENAI**
+* 🔬 Bolsista de **Iniciação Científica**
 * ☕ Interesse profissional em **Desenvolvimento Back-end com Java**
 * 🌐 Gosto de desenvolver **aplicações Web**
 * 📱 Gosto de desenvolver **aplicativos**
@@ -79,14 +80,24 @@ Atualmente desenvolvo projetos acadêmicos e pessoais enquanto aprimoro meus con
 
 Atualmente estou direcionando meus estudos e projetos para evoluir como **Desenvolvedor Back-end Java**, enquanto continuo adquirindo experiência em outras áreas da programação.
 
+Também atuo como **bolsista de Iniciação Científica**, participando do desenvolvimento de um sistema para **monitoramento e gerenciamento de uma caixa d'água inteligente**.
+
+O projeto integra um **aplicativo conectado diretamente a um ESP32**, permitindo acompanhar informações do sistema e gerenciar diferentes funções e processos da caixa d'água por meio da aplicação.
+
+Essa experiência envolve a integração entre **software, aplicativo, sistemas embarcados, sensores e comunicação com ESP32**.
+
+Principais áreas em que estou trabalhando:
+
 * ☕ **Java e Programação Orientada a Objetos**
 * ⚙️ **Desenvolvimento Back-end**
 * 🗄️ **Banco de Dados**
 * 🌐 **Desenvolvimento Web**
 * 📱 **Desenvolvimento de Aplicativos**
+* 🔬 **Iniciação Científica**
+* 🔗 **Integração entre software e sistemas embarcados**
+* 🤖 **Arduino e ESP32**
 * 🐍 **Python**
 * ⚙️ **C e C++**
-* 🤖 **Arduino e ESP32**
 * 🧠 **Algoritmos e Estruturas de Dados**
 
 ---
