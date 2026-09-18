@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou Igor Gabriel
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code\&size=22\&duration=3000\&pause=1000\&width=750\&lines=Desenvolvedor+de+Software;Estudante+de+Engenharia+de+Software;T%C3%A9cnico+em+Desenvolvimento+de+Sistemas;Futuro+Back-end+Developer+Java;Java+%7C+C%2FC%2B%2B+%7C+Python+%7C+JavaScript;Web+Development+%7C+Android+%7C+Arduino+%7C+ESP32)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code\&size=22\&duration=3000\&pause=1000\&width=750\&lines=Desenvolvedor+de+Software;Estudante+de+Engenharia+de+Software;T%C3%A9cnico+em+Desenvolvimento+de+Sistemas;Futuro+Desenvolvedor+Back-end+Java;Java+%7C+C%2FC%2B%2B+%7C+Python+%7C+JavaScript;Web+Development+%7C+Android+%7C+Arduino+%7C+ESP32)](https://git.io/typing-svg)
 
 ### 💻 Desenvolvedor de Software | 🎓 Engenharia de Software | ☕ Foco em Back-end Java
 
@@ -44,6 +44,13 @@ Atualmente desenvolvo projetos acadêmicos e pessoais enquanto aprimoro meus con
 
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js" />
+</p>
+
+### 📱 Desenvolvimento de Aplicativos
+
+<p>
+  <img src="https://skillicons.dev/icons?i=java,androidstudio" />
+  <img width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xml/xml-original.svg" />
 </p>
 
 ### 🗄️ Banco de Dados
@@ -128,9 +135,8 @@ O projeto utiliza conceitos como:
 
 ## 📊 Estatísticas do GitHub
 
-<div align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=IgorGabriel505&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" />
-
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=IgorGabriel505&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorGabriel505&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
 </div>
 
@@ -138,11 +144,15 @@ O projeto utiliza conceitos como:
 
 ## 📫 Contato
 
-[![LinkedIn](https://www.linkedin.com/in/
-igor-gabriel-porto-vidal
-)
+<p>
+  <a href="https://www.linkedin.com/in/igor-gabriel-porto-vidal/">
+    <img src="https://img.shields.io/badge/LinkedIn-Igor%20Gabriel-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 
-[![GitHub](https://img.shields.io/badge/GitHub-IgorGabriel505-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/IgorGabriel505)
+  <a href="https://github.com/IgorGabriel505">
+    <img src="https://img.shields.io/badge/GitHub-IgorGabriel505-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
 ---
 
