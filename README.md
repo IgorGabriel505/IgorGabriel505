@@ -134,4 +134,38 @@ Projeto desenvolvido em **C++** para gerenciamento e organização de informaç�
 
 O projeto aplica conceitos de programação e estruturas de dados para manipulação de Pokémon, cidades e rotas.
 
-Entre os conceitos utilizados estão **árvores de busca, listas de adjacência, grafos e algo**
+Entre os conceitos utilizados estão **árvores de busca, listas de adjacência, grafos e algoritmos de percurso**.
+
+**Tecnologias:**
+`C++` · `Estruturas de Dados` · `Grafos` · `Algoritmos`
+
+[![Repositório](https://img.shields.io/badge/Reposit%C3%B3rio-GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/IgorGabriel505/Pokedex)
+
+---
+
+## 📊 Estatísticas do GitHub
+
+<div align="center">
+  <img height="170" src="https://github-stats-extended.vercel.app/api?username=IgorGabriel505&show_icons=true&theme=github_dark&hide_border=true" />
+  <img height="170" src="https://github-stats-extended.vercel.app/api/top-langs/?username=IgorGabriel505&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
+</div>
+
+---
+
+## 📫 Contato
+
+<p>
+  <a href="https://www.linkedin.com/in/igor-gabriel-porto-vidal/">
+    <img src="https://img.shields.io/badge/LinkedIn-Igor%20Gabriel-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+  <a href="https://github.com/IgorGabriel505">
+    <img src="https://img.shields.io/badge/GitHub-IgorGabriel505-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>Buscando evoluir constantemente através de projetos, estudos e novos desafios em tecnologia.</i>
+</p>
