@@ -107,7 +107,7 @@ Principais áreas em que estou trabalhando:
 <div align="center">
 
 <a href="https://github.com/IgorGabriel505/UV-Care-Robot">
-  <img width="48%" src="https://github-stats-extended.vercel.app/api/pin/?username=IgorGabriel505&repo=UV-Care-Robot&theme=github_dark&hide_border=true" />
+  <img src="https://github-stats-extended.vercel.app/api/pin/?username=IgorGabriel505&repo=UV-Care-Robot&theme=github_dark&hide_border=true" />
 </a>
 
 <a href="https://github.com/IgorGabriel505/Pokedex">
