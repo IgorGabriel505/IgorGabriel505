@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou Igor Gabriel
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code\&size=22\&duration=3000\&pause=1000\&width=750\&lines=Desenvolvedor+de+Software;Estudante+de+Engenharia+de+Software;T%C3%A9cnico+em+Desenvolvimento+de+Sistemas;Foco+em+Back-end+Java;Java+%7C+C%2FC%2B%2B+%7C+Python+%7C+JavaScript;Web+Development+%7C+Android+%7C+Arduino+%7C+ESP32)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&width=750&lines=Desenvolvedor+de+Software;Estudante+de+Engenharia+de+Software;T%C3%A9cnico+em+Desenvolvimento+de+Sistemas;Foco+em+Back-end+Java;Java+%7C+C%2FC%2B%2B+%7C+Python+%7C+JavaScript;Web+Development+%7C+Android+%7C+Arduino+%7C+ESP32)](https://git.io/typing-svg)
 
 ### 💻 Desenvolvedor de Software | 🎓 Engenharia de Software | ☕ Foco em Back-end Java
 
@@ -16,19 +16,19 @@ Atualmente desenvolvo projetos acadêmicos e pessoais enquanto aprimoro meus con
 
 ## 👨‍💻 Sobre mim
 
-* 🎓 Graduando em **Engenharia de Software — Inatel**
-* 🛠️ Técnico em **Desenvolvimento de Sistemas — SENAI**
-* 🔬 Bolsista de **Iniciação Científica**
-* ☕ Interesse profissional em **Desenvolvimento Back-end com Java**
-* 🌐 Gosto de desenvolver **aplicações Web**
-* 📱 Gosto de desenvolver **aplicativos**
-* 💻 Desenvolvimento de aplicações utilizando **Java**
-* ⚙️ Programação em **C e C++**
-* 🐍 Desenvolvimento de projetos utilizando **Python**
-* 🌐 Desenvolvimento com **HTML, CSS, JavaScript e XML**
-* 🗄️ Experiência com **MySQL e PostgreSQL**
-* 🤖 Desenvolvimento de projetos utilizando **Arduino e ESP32**
-* 📚 Estudando **Algoritmos, Estruturas de Dados e Programação Orientada a Objetos**
+- 🎓 Graduando em **Engenharia de Software — Inatel**
+- 🛠️ Técnico em **Desenvolvimento de Sistemas — SENAI**
+- 🔬 Bolsista de **Iniciação Científica**
+- ☕ Interesse profissional em **Desenvolvimento Back-end com Java**
+- 🌐 Gosto de desenvolver **aplicações Web**
+- 📱 Gosto de desenvolver **aplicativos**
+- 💻 Desenvolvimento de aplicações utilizando **Java**
+- ⚙️ Programação em **C e C++**
+- 🐍 Desenvolvimento de projetos utilizando **Python**
+- 🌐 Desenvolvimento com **HTML, CSS, JavaScript e XML**
+- 🗄️ Experiência com **MySQL e PostgreSQL**
+- 🤖 Desenvolvimento de projetos utilizando **Arduino e ESP32**
+- 📚 Estudando **Algoritmos, Estruturas de Dados e Programação Orientada a Objetos**
 
 ---
 
@@ -88,29 +88,58 @@ Essa experiência envolve a integração entre **software, aplicativos, sistemas
 
 Principais áreas em que estou trabalhando:
 
-* ☕ **Java e Programação Orientada a Objetos**
-* ⚙️ **Desenvolvimento Back-end**
-* 🗄️ **Banco de Dados**
-* 🌐 **Desenvolvimento Web**
-* 📱 **Desenvolvimento de Aplicativos**
-* 🔬 **Iniciação Científica**
-* 🔗 **Integração entre software e sistemas embarcados**
-* 🤖 **Arduino e ESP32**
-* 🐍 **Python**
-* ⚙️ **C e C++**
-* 🧠 **Algoritmos e Estruturas de Dados**
+- ☕ **Java e Programação Orientada a Objetos**
+- ⚙️ **Desenvolvimento Back-end**
+- 🗄️ **Banco de Dados**
+- 🌐 **Desenvolvimento Web**
+- 📱 **Desenvolvimento de Aplicativos**
+- 🔬 **Iniciação Científica**
+- 🔗 **Integração entre software e sistemas embarcados**
+- 🤖 **Arduino e ESP32**
+- 🐍 **Python**
+- ⚙️ **C e C++**
+- 🧠 **Algoritmos e Estruturas de Dados**
 
 ---
 
-## 📌 Projeto em Destaque
+## 📌 Projetos em Destaque
 
 <div align="center">
 
+<a href="https://github.com/IgorGabriel505/UV-Care-Robot">
+  <img width="48%" src="https://github-stats-extended.vercel.app/api/pin/?username=IgorGabriel505&repo=UV-Care-Robot&theme=github_dark&hide_border=true" />
+</a>
+
 <a href="https://github.com/IgorGabriel505/Pokedex">
-  <img src="https://github-stats-extended.vercel.app/api/pin/?username=IgorGabriel505&repo=Pokedex&theme=github_dark&hide_border=true" />
+  <img width="48%" src="https://github-stats-extended.vercel.app/api/pin/?username=IgorGabriel505&repo=Pokedex&theme=github_dark&hide_border=true" />
 </a>
 
 </div>
+
+---
+
+### 🤖 UV-Care Robot
+
+Aplicativo Android desenvolvido em **Java** como protótipo demonstrativo para apresentação na **FETIN**.
+
+O projeto apresenta uma interface para monitoramento e controle de um sistema de desinfecção UV, reunindo autenticação de usuários, painel de monitoramento, controles demonstrativos, gerenciamento de missões e configurações.
+
+O aplicativo utiliza **Firebase Authentication** para autenticação dos usuários e possui uma versão compilada disponível para demonstração através do GitHub Releases.
+
+**Tecnologias:**  
+`Java` · `Android` · `Android Studio` · `XML` · `Firebase Authentication`
+
+<p>
+  <a href="https://github.com/IgorGabriel505/UV-Care-Robot">
+    <img src="https://img.shields.io/badge/Acessar%20Repositório-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+
+  <a href="https://github.com/IgorGabriel505/UV-Care-Robot/releases/latest">
+    <img src="https://img.shields.io/badge/Baixar%20APK-Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
+  </a>
+</p>
+
+---
 
 ### 🔴 Pokédex em C++
 
@@ -120,10 +149,14 @@ O projeto aplica conceitos de programação e estruturas de dados para manipula�
 
 Entre os conceitos utilizados estão **árvores de busca, listas de adjacência, grafos e algoritmos de percurso**.
 
-**Tecnologias:**
+**Tecnologias:**  
 `C++` · `Estruturas de Dados` · `Grafos` · `Algoritmos`
 
-[![Repositório](https://img.shields.io/badge/Acessar%20Reposit%C3%B3rio-GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/IgorGabriel505/Pokedex)
+<p>
+  <a href="https://github.com/IgorGabriel505/Pokedex">
+    <img src="https://img.shields.io/badge/Acessar%20Repositório-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
 ---
 
