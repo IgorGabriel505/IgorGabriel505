@@ -131,7 +131,7 @@ O aplicativo utiliza **Firebase Authentication** para autenticação dos usuári
 
 <p>
   <a href="https://github.com/IgorGabriel505/UV-Care-Robot">
-    <img src="https://img.shields.io/badge/Acessar%20Repositório-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=IgorGabriel505&repo=UV-Care-Robot&theme=github_dark&hide_border=true" />
   </a>
 
   <a href="https://github.com/IgorGabriel505/UV-Care-Robot/releases/latest">
