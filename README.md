@@ -19,15 +19,14 @@ Atualmente desenvolvo projetos acadêmicos e pessoais enquanto aprimoro meus con
 - 🎓 Graduando em **Engenharia de Software — Inatel**
 - 🛠️ Técnico em **Desenvolvimento de Sistemas — SENAI**
 - 🔬 Bolsista de **Iniciação Científica**
-- ☕ Interesse profissional em **Desenvolvimento Back-end com Java**
-- 🌐 Gosto de desenvolver **aplicações Web**
-- 📱 Gosto de desenvolver **aplicativos**
-- 💻 Desenvolvimento de aplicações utilizando **Java**
+- ☕ Foco profissional em **Desenvolvimento Back-end com Java**
+- 🌐 Interesse em **desenvolvimento Web**
+- 📱 Desenvolvimento de **aplicativos Android**
 - ⚙️ Programação em **C e C++**
-- 🐍 Desenvolvimento de projetos utilizando **Python**
-- 🌐 Desenvolvimento com **HTML, CSS, JavaScript e XML**
+- 🐍 Desenvolvimento com **Python**
+- 🌐 Conhecimentos em **HTML, CSS, JavaScript e XML**
 - 🗄️ Experiência com **MySQL e PostgreSQL**
-- 🤖 Desenvolvimento de projetos utilizando **Arduino e ESP32**
+- 🤖 Projetos utilizando **Arduino e ESP32**
 - 📚 Estudando **Algoritmos, Estruturas de Dados e Programação Orientada a Objetos**
 
 ---
@@ -78,13 +77,13 @@ Atualmente desenvolvo projetos acadêmicos e pessoais enquanto aprimoro meus con
 
 ## 🎯 Foco atual
 
-Atualmente estou direcionando meus estudos e projetos para evoluir como **Desenvolvedor Back-end Java**, enquanto continuo adquirindo experiência em outras áreas da programação.
+Atualmente estou direcionando meus estudos e projetos para evoluir como **Desenvolvedor Back-end Java**, aprofundando continuamente meus conhecimentos na linguagem e em conceitos relacionados ao desenvolvimento de software.
 
 Também atuo como **bolsista de Iniciação Científica**, participando do desenvolvimento de um sistema para **monitoramento e gerenciamento de uma caixa d'água inteligente**.
 
-O projeto integra um **aplicativo conectado a um ESP32**, permitindo acompanhar informações do sistema e gerenciar diferentes funções e processos da caixa d'água por meio da aplicação.
+O projeto integra um **aplicativo conectado a um ESP32**, permitindo acompanhar informações do sistema e gerenciar diferentes funções e processos por meio da aplicação.
 
-Essa experiência envolve a integração entre **software, aplicativos, sistemas embarcados, sensores e comunicação com ESP32**.
+Essa experiência envolve integração entre **software, aplicativos, sistemas embarcados, sensores e comunicação com ESP32**.
 
 Principais áreas em que estou trabalhando:
 
@@ -104,67 +103,94 @@ Principais áreas em que estou trabalhando:
 
 ## 📌 Projetos em Destaque
 
-<div align="center">
+<table>
+<tr>
 
-<a href="https://github.com/IgorGabriel505/UV-Care-Robot">
-  <img width="48%" src="https://github-stats-extended.vercel.app/api/pin/?username=IgorGabriel505&repo=UV-Care-Robot&theme=github_dark&hide_border=true" />
-</a>
+<td width="50%" valign="top">
 
-<a href="https://github.com/IgorGabriel505/Pokedex">
-  <img width="48%" src="https://github-stats-extended.vercel.app/api/pin/?username=IgorGabriel505&repo=Pokedex&theme=github_dark&hide_border=true" />
-</a>
-
-</div>
-
----
-
-### 🤖 UV-Care Robot
-
-Aplicativo Android desenvolvido em **Java** como protótipo demonstrativo para apresentação na **FETIN**.
-
-O projeto apresenta uma interface para monitoramento e controle de um sistema de desinfecção UV, reunindo autenticação de usuários, painel de monitoramento, controles demonstrativos, gerenciamento de missões e configurações.
-
-O aplicativo utiliza **Firebase Authentication** para autenticação dos usuários e possui uma versão compilada disponível para demonstração através do GitHub Releases.
-
-**Tecnologias:**  
-`Java` · `Android` · `Android Studio` · `XML` · `Firebase Authentication`
+<h3 align="center">🤖 UV-Care Robot</h3>
 
 <p>
-  <a href="https://github.com/IgorGabriel505/UV-Care-Robot">
-    <img src="https://img.shields.io/badge/Acessar%20Repositório-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
+Aplicativo Android desenvolvido em <strong>Java</strong> como protótipo demonstrativo para apresentação na <strong>FETIN</strong>.
+</p>
 
+<p>
+O projeto apresenta uma interface para monitoramento e controle de um sistema de desinfecção UV, reunindo autenticação de usuários, painel de monitoramento, controles demonstrativos, gerenciamento de missões e configurações.
+</p>
+
+<p>
+Utiliza <strong>Firebase Authentication</strong> para autenticação e possui uma versão compilada disponível para download e teste.
+</p>
+
+<p><strong>Tecnologias:</strong></p>
+
+<p>
+<code>Java</code>
+<code>Android</code>
+<code>XML</code>
+<code>Firebase</code>
+</p>
+
+<p align="center">
+  <a href="https://github.com/IgorGabriel505/UV-Care-Robot">
+    <img src="https://img.shields.io/badge/Repositório-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
   <a href="https://github.com/IgorGabriel505/UV-Care-Robot/releases/latest">
     <img src="https://img.shields.io/badge/Baixar%20APK-Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
   </a>
 </p>
 
----
+</td>
 
-### 🔴 Pokédex em C++
+<td width="50%" valign="top">
 
-Projeto desenvolvido em **C++** para gerenciamento e organização de informações relacionadas ao universo Pokémon.
-
-O projeto aplica conceitos de programação e estruturas de dados para manipulação de Pokémon, cidades e rotas.
-
-Entre os conceitos utilizados estão **árvores de busca, listas de adjacência, grafos e algoritmos de percurso**.
-
-**Tecnologias:**  
-`C++` · `Estruturas de Dados` · `Grafos` · `Algoritmos`
+<h3 align="center">🔴 Pokédex em C++</h3>
 
 <p>
+Projeto desenvolvido em <strong>C++</strong> para gerenciamento e organização de informações relacionadas ao universo Pokémon.
+</p>
+
+<p>
+O projeto aplica conceitos de programação e estruturas de dados para manipulação de Pokémon, cidades e rotas.
+</p>
+
+<p>
+Entre os conceitos utilizados estão <strong>árvores de busca, listas de adjacência, grafos e algoritmos de percurso</strong>.
+</p>
+
+<p><strong>Tecnologias:</strong></p>
+
+<p>
+<code>C++</code>
+<code>Estruturas de Dados</code>
+<code>Grafos</code>
+<code>Algoritmos</code>
+</p>
+
+<p align="center">
   <a href="https://github.com/IgorGabriel505/Pokedex">
-    <img src="https://img.shields.io/badge/Acessar%20Repositório-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/Repositório-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
+
+</td>
+
+</tr>
+</table>
 
 ---
 
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
+
   <img height="170" src="https://github-stats-extended.vercel.app/api?username=IgorGabriel505&show_icons=true&theme=github_dark&hide_border=true" />
+
   <img height="170" src="https://github-stats-extended.vercel.app/api/top-langs/?username=IgorGabriel505&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
+
 </div>
 
 ---
